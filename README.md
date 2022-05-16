@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @themage107
 - 👀 I’m interested in C#, PHP, and JS.
-- 🎮 You might see some C# code here for my Game Johnny Chainsaw
+- 🎮 You might see some C# code here for my platformer w/o a jump button Johnny Chainsaw
 - 🌱 I’m currently learning more coding languages and frameworks
 - 📫 How to reach me themage107@gmail.com or @adrianjfox on Twitter
 
